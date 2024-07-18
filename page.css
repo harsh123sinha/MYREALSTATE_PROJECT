@@ -10,10 +10,12 @@ body {
   text-decoration: none;
   font-family: "Young Serif", serif;
   height: 550vh;
+  overflow-x: hidden;
 }
 @media screen and (max-width:400px){
   body{
-    height: 550vh;
+    height: 250vh;
+    overflow-x: hidden;
 }
   }
 
@@ -439,16 +441,17 @@ a :hover {
     font-family: copperplate;
   }
   .proj-1{
-    margin-top:50px;
-    margin-left: -100px;
-  }
+    margin-top: 53px;
+    margin-left: 22px;
+}
+  
   .proj-2{
     margin-top: 120px;
     margin-left: 600px;
   }
   @media screen and (max-width:400px){
     .proj-1{
-    width: 24rem;
+    width: 19rem;
     
     }
     .map1{
@@ -469,7 +472,7 @@ a :hover {
   @media screen and (max-width:400px){
     .proj-2{
     width: 18rem;
-    margin-left: 2px;
+    margin-left: 35px;
     
     }
     .map2{
