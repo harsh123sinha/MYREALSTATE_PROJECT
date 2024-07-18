@@ -11,6 +11,12 @@ body {
   font-family: "Young Serif", serif;
   height: 550vh;
 }
+@media screen and (max-width:400px){
+  body{
+    height: 550vh;
+}
+  }
+}
 
 header {
 
