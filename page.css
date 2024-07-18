@@ -9,11 +9,12 @@ body {
 
   text-decoration: none;
   font-family: "Young Serif", serif;
+  height: 550vh;
 }
 
 header {
 
-  background-image: url(interior-design-neoclassical-style-with-furnishings-decor_23-2151199287.jpg);
+  background-image: url(interior.jpg);
   background-size: cover;
   height: 100vh;
   width: 100%;
